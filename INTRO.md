@@ -1,7 +1,12 @@
-**TronBlock Super Representative Candidate**
+## TronBlock
+Formed by the TRON TRX community leaders in Southeast Asia 
+We believe in building a better world on TRON
+We want to share our local community more knowledge about TRON development, 
+blockchain technology and crypro education. 
 
-_**Reliability and services in a new era of changes**_
-
-**TronBlock** at its core is a network of passionate **Tron** enthusiasts that collaborate and share their collective skills and knowledge to mature the **Tron** Network.
-
-**TronBlock** is a representative of the community; a majority of our leadership team is from the **Tron** community itself. We are the community, the users of **Tron**.
+## For More Info
+ * Homepage  https://tronblock.ml/
+ * Facebook  https://www.facebook.com/groups/TronBlock/
+ * Twitter  https://twitter.com/TronBlock
+ * Telegram community  https://t.me/
+ * Medium  https://medium.com/@TronBlock
