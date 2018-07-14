@@ -1,1 +1,1 @@
-Describe the plan to support the community
+As a team, our distributed locations, and diverse cultural and educational backgrounds should allow us to provide around the clock technical support as well as establish and maintain business relations and make contributions to the TRON community.
