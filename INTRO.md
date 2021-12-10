@@ -1,5 +1,7 @@
-**TronBlock**
-- Formed by the TRON TRX community leaders in Southeast Asia
+
+**TronBlock** operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry.
+
+- Formed by the TRON TRX community leaders globally
 - We believe in building a better world on TRON
 - We want to share our local community more knowledge about TRON development, blockchain technology and crypro education. 
 
@@ -7,5 +9,4 @@
 - Homepage  https://tronblock.ml/
 - Facebook  https://www.facebook.com/groups/TronBlock/
 - Twitter  https://twitter.com/TronBlock
-- Telegram community  https://t.me/
 - Medium  https://medium.com/@TronBlock
